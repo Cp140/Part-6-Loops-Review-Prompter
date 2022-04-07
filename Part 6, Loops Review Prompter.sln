@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part 6, Loops Review Prompter", "Part 6, Loops Review Prompter\Part 6, Loops Review Prompter.csproj", "{50176C61-B61B-4C49-8C32-5E5C78E20D4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50176C61-B61B-4C49-8C32-5E5C78E20D4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50176C61-B61B-4C49-8C32-5E5C78E20D4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50176C61-B61B-4C49-8C32-5E5C78E20D4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50176C61-B61B-4C49-8C32-5E5C78E20D4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D3B46CF-89ED-4230-8776-F5137F7B3C4E}
+	EndGlobalSection
+EndGlobal
