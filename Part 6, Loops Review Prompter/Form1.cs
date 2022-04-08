@@ -16,5 +16,21 @@ namespace Part_6__Loops_Review_Prompter
         {
             InitializeComponent();
         }
+        int rangeHigh;
+        int rangeLow;
+        int rangeBetween;
+
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Int32.TryParse(txtHigh.Text, out rangeHigh);
+            Int32.TryParse(txtLow.Text, out rangeLow);
+            Int32.TryParse(txtInput.Text, out rangeHigh);
+            if (rangeBetween >= rangeLow && rangeBetween <= rangeHigh)
+            {
+
+
+            }
+        }
     }
 }
